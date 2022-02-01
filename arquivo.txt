@@ -1,6 +1,7 @@
 uma primeira modificação
 -outra modificação
 pode ter mais de uma linha
+bug
 3
 4
 5
